@@ -11,7 +11,7 @@ def introduction_with_language(name, language = 'Ruby')
 end
 
 def introduction_with_language_optional(name = 'Edwin', language = 'Ruby')
-  puts "Hi, my name is #{name} and I am leanring to program i #{language}."
+  puts "Hi, my name is #{name} and I am leanring to program in #{language}."
 end
 
 
